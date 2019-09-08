@@ -1,0 +1,16 @@
+.list-group-item {
+  line-height: 2.5;
+}
+.jumbotron {
+  
+  border-style: solid !important;
+  color: #B4EEB4;
+  border: 5px rgb(154, 182, 117) !important;
+}
+
+.jumbo-text {
+  font-family: 'Open Sans Condensed', sans-serif !important;
+  color: #ffffff;
+  background: #44a7ce;
+  
+}
