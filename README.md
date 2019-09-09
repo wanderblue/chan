@@ -10,9 +10,4 @@ Mysql Database
 Knexjs
 Heroku
 
-Authors:
-Blue Wang
-Luis Ernesto Rivas Villacorta
-Sassan, Eric
 
-Links Heroku: https://infinite-beach-18877.herokuapp.com/
