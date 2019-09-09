@@ -4,10 +4,15 @@ A simple image-based bulletin board where anyone can post comments and share ima
 
 Technology Used:
 Bootstrap
+
 Nodejs
+
 Expressjs
+
 Mysql Database
+
 Knexjs
+
 Heroku
 
 
